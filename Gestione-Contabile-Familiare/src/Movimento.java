@@ -10,6 +10,7 @@ public class Movimento {
 
 
    }
+   Movimento () {}
 
    void movimentiTotali() {
        System.out.println("Calcolo Movimenti Totali ");
