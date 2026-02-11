@@ -14,7 +14,7 @@ public class MainConteggioFinale {
         System.out.println("Risultato uscite: " + movUscite.getValoreReale());
         movUscite.movimentiTotali();
         System.out.println("Benissimo! ^_^ Ora ci Serve Sapere Quanto ci Resta a Fine Mese! ^_^ ");
-        System.out.println("Premi una Lettera per Sapere il Reso Conto Familiare di Questo Mese ");
+        System.out.println("Premi una Lettera per Sapere il Reso Conto Familiare di Questo Mese! ");
         scanner.nextLine();
         for (int i = 0; i <1; i++) {
             Movimento mov = new Movimento();

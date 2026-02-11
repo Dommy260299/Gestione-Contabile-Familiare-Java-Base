@@ -13,7 +13,7 @@ public class Uscite extends Movimento {
     }
 @Override
      void movimentiTotali() {
-        System.out.println("Movimenti in uscita Calcolati");
+        System.out.println("Movimenti in uscita Calcolati!");
     }
     @Override
     public int getValoreReale() {
